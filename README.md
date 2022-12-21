@@ -4,7 +4,7 @@ A directory of iOS developers of all levels, sorted alphabetically, who want to 
 # Directory
 | Name          | Website                                        | GitHub                                              | Twitter                                               | Mastodon                                                           | LinkedIn                                                 | Reddit |
 |---------------|------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------|--------|
-| Joshua Austin | [joshaustin.tech](https://www.joshaustin.tech) | [joshaustintech](https://github.com/joshaustintech) | [@joshaustintech](https://twitter.com/joshaustintech) | [@josh@joshaustin.xyz](https://joshaustin.xyz/@josh)               | [joshaustintech](https://linkedin.com/in/joshaustintech) | N/A    |
+| Joshua Austin | [joshaustin.tech](https://www.joshaustin.tech) | [joshaustintech](https://github.com/joshaustintech) | [@joshaustintech](https://twitter.com/joshaustintech) | [@josh@joshaustin.xyz](https://joshaustin.xyz/@josh)               | [joshaustintech](https://linkedin.com/in/joshaustintech) |        |
 | Ian Wagner    | [funktional.ee](https://funktional.ee/)        | [ianthetechie](https://github.com/ianthetechie)     | [@ianthetechie](https://twitter.com/ianthetechie)     | [@ianthetechie@fosstodon.org](https://fosstodon.org/@ianthetechie) | Contact elsewhere first                                  |        |
 
 # Contributing
